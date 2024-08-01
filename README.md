@@ -1,5 +1,4 @@
-
-  # README Generator
+# README Generator
   
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
@@ -32,4 +31,3 @@
   ## Questions
   For questions about the project, please contact me via GitHub: [rawnaqk](https://github.com/rawnaqk)  
   or email me at: rawnaq.kabairzad@gmail.com
-  
